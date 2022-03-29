@@ -1,6 +1,6 @@
 <?php
 
-namespace Runline\ProfileTool\Http\Controllers;
+namespace JVillator0\ProfileTool\Http\Controllers;
 
 use Illuminate\Http\UploadedFile;
 use Illuminate\Routing\Controller;

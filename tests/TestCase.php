@@ -1,10 +1,10 @@
 <?php
 
-namespace Runline\ProfileTool\Tests;
+namespace JVillator0\ProfileTool\Tests;
 
 use Illuminate\Support\Facades\Route;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Runline\ProfileTool\ToolServiceProvider;
+use JVillator0\ProfileTool\ToolServiceProvider;
 
 abstract class TestCase extends Orchestra
 {

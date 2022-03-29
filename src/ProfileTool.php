@@ -1,6 +1,6 @@
 <?php
 
-namespace Runline\ProfileTool;
+namespace JVillator0\ProfileTool;
 
 use Laravel\Nova\Nova;
 use Laravel\Nova\Tool as BaseTool;
